@@ -1,2 +1,2 @@
 # POP3
-using Mail.ru 
+using Mail.ru as a server
